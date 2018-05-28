@@ -37,6 +37,10 @@ input {
   	-o-transition: all 0.30s ease-in-out;
 }
 
+#zip {
+	display: block;
+}
+
 select {
 	margin-top: 7px;
 	margin-bottom: 10px;
